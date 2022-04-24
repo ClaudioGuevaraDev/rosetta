@@ -48,4 +48,4 @@
 * *conda install -c conda-forge biopython*
 
 5. **Run Script**
-* *python3 main.py*
+* *python3 main.py --n MODELS_AMOUNT --p ROSETTA_PATH*
